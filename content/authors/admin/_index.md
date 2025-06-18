@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Charmaine Llorca
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Charmaine Llorca
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Charm
-last_name: Llorca
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer, Data Engineer
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:llorcacharm@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
