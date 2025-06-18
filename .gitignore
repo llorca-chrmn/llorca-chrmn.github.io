@@ -1,0 +1,7 @@
+.venv
+.hugo_build.lock
+go.sum
+hugo_stats.json
+public/
+requirements.txt
+resources/
