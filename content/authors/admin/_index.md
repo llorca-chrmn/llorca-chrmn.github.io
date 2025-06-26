@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Charmaine Llorca
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Charmaine
+last_name: Llorca
 
 # Status emoji
 status:
@@ -20,92 +20,88 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Software Engineer, Data Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# organizations:
+#   - name: 
+#     url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:llorcacharm@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/llorca-chrmn
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/charmaine-llorca-954439304/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=h3YAgEYAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Python BackEnd Development
   - Information Retrieval
+  - A/B Testing
+  - API Integrations
+  - Artificial Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Computer Science
+    institution: University of San Carlos
+    date_start: 2014-06-01
+    date_end: 2018-07-28
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Image-based pest and disease recognition of tomato plants using a convolutional neural network_. Supervised by [Sir Christian Maderazo](https://scholar.google.com.ph/citations?user=-cwAQ_oAAAAJ&hl=en). Presented paper at _Proceedings of International Conference Technological Challenges for Better World 2018_ with 22 citations on similar topic.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'http://www.e-jikei.org/Conf/ICTCBW2018/proceedings/materials/proc_files/GS_papers/GS_A006/camera_ready_manuscript_ICTCBW2018_GS_A006.pdf'
+ 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Software Engineer, AI | Remote (Contract)
+    company_name: Outlier, G2i Inc.
+    company_url: https://www.g2i.co/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-02-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Evaluated and refined AI-generated code to enhance LLM output quality.
+      - Repaired and refactored AI code, identifying critical performance and security issues.
+      - Provided feedback to the RLHF pipeline, significantly improving LLM code generation.
+  - position: Associate Software Engineer 3
+    company_name: InfoTrust LLC
+    company_url: https://infotrust.com/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-01
+    date_end: 2024-10-11
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed and optimized SQL-based reporting solutions, enhancing client decision-making and product insights.
+      - Automated software workflows and data retrieval, significantly enhancing application performance and system efficiency.
+      - Implemented A/B testing frameworks and managed technical support, ensuring continuous software functionality.
+  - position: MarTech Specialist
+    company_name: InfoTrust LLC
+    company_url: https://infotrust.com/
+    company_logo: ''
+    date_start: 2022-05-16
+    date_end: 2023-05-31
+    summary: |
+      Responsibilities include:
+      - Implemented tag/cookie management solutions to improve system data accuracy and privacy compliance.
+      - Maintained proprietary product library, ensuring alignment with evolving software industry standards.
+      - Provided data-driven insights and contributed to technical solutions for marketing and compliance objectives.
+  - position: Python Developer | Freelance
+    company_name: REI Data Connect, Onlinejobs.ph, Digivante
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-12-01
+    date_end: 2023-12-31
+    summary: |
+      Responsibilities include:
+      - Developed Python scripts with Pandas to boost data processing efficiency and analytical tool performance.
+      - Engineered robust backend scripts to integrate databases, enhancing web platform functionality. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,7 +112,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Engineering
         description: ''
         percent: 100
         icon: chart-bar
@@ -128,59 +124,46 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Pickleball
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: tennis
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera
+        icon: cook
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
+  - name: Python
+    percent: 85
+  - name: Data Engineering
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: SQL
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Privacy for Agencies and Partners Certification
+    url: https://skillshop.credential.net/d060a7ad-6aab-4248-9ea9-440a67cfcf19#acc.ujdvmiED
+    date: '2024-09-25'
+    awarder: Google Digital Academy (Skillshop)
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I possess expertise in the evolving landscape of digital advertising privacy, allowing me to evaluate its impact and develop durable, privacy-first strategies. My knowledge extends to Google's solutions like the Privacy Sandbox, which I effectively communicate for practical business applications.
+  - title: Google Analytics Certification
+    url: https://skillshop.credential.net/af5adfd5-f780-42ba-b196-d582744fafc6#acc.urGv7H9J
+    date: '2024-09-09'
+    awarder: Google Digital Academy (Skillshop)
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I am proficient in setting up and structuring Google Analytics 4 properties, ensuring effective data collection and leveraging diverse reporting tools for valuable insights. This enables me to recognize key measurement features that directly inform marketing decisions and demonstrate the effectiveness of online strategies.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A results-driven Software Engineer and Data Engineer with approximately 4 years of experience. My expertise spans across optimizing SQL queries, working with PostgreSQL, REST APIs, and data warehousing. I've honed my skills in data scraping and engineering using Python, AWS Services, JavaScript, and SQL, leveraging libraries like Pandas to build robust solutions. As a project-oriented and lifelong learner, I am passionate about exploring new technologies and methodologies to continuously improve my capabilities and deliver creative solutions.

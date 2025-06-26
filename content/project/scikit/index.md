@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Inventory
+date: 2018-07-01
+external_link: https://github.com/llorca-chrmn/inventory
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Web Application
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+An inventory-management system for computer peripherals using CodeIgniter Framework and mySQL database.
 
 <!--more-->
