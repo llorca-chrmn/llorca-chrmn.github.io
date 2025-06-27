@@ -166,4 +166,4 @@ awards:
 
 ## About Me
 
-A results-driven Software Engineer and Data Engineer with approximately 4 years of experience. My expertise spans across optimizing SQL queries, working with PostgreSQL, REST APIs, and data warehousing. I've honed my skills in data scraping and engineering using Python, AWS Services, JavaScript, and SQL, leveraging libraries like Pandas to build robust solutions. As a project-oriented and lifelong learner, I am passionate about exploring new technologies and methodologies to continuously improve my capabilities and deliver creative solutions.
+A results-driven Software Engineer and Data Engineer with approximately 5 years of experience. My expertise spans across optimizing SQL queries, working with PostgreSQL, REST APIs, and data warehousing. I've honed my skills in data scraping and engineering using Python, AWS Services, JavaScript, and SQL, leveraging libraries like Pandas to build robust solutions. As a project-oriented and lifelong learner, I am passionate about exploring new technologies and methodologies to continuously improve my capabilities and deliver creative solutions.

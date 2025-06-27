@@ -1,6 +1,6 @@
 ---
 title: Tag Explorer
-date: 2023-12-01
+date: 2024-05-26
 tags:
   - Browser Extension
 ---
@@ -12,7 +12,7 @@ My responsibilities included:
 
 - **Identifying and categorizing tracking technologies** such as tags, pixels, and beacons
 - **Researching unknown or undocumented tracking tools** to assign them to the correct vendor (e.g., Microsoft Clarity, OneTrust, Google Ads)
-- **Updating and maintaining the Tag Library**, ensuring that industry changes and new tools were reflected in real-time scanning
+- **Updating and maintaining the Tag Library and Tag Explorer Browser Extension**, ensuring that industry changes and new tools were reflected in real-time scanning and browser-based detection
 
 🚀 **Impact**:  
 Through consistent audits and proactive research, I led improvements that **increased the number of tags accurately detected and described by 20%**, helping enterprise users better understand what tools were loading on their websites.
