@@ -139,7 +139,7 @@ skills:
 
 languages:
   - name: Python
-    percent: 85
+    percent: 90
   - name: Data Engineering
     percent: 75
   - name: SQL
